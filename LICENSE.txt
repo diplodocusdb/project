@@ -1,12 +1,3 @@
-# DiplodocusDB - Project data
-
-DiplodocusDB is a series of projects that provide data storage components. It is currently
-only really useful to me for my own projects.
-
-This repository contains project data.
-
-## License
-
 Copyright (c) 2015-2018 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
