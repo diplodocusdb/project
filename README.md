@@ -1,13 +1,25 @@
-# DiplodocusDB - Project data
+# DiplodocusDB Project Data
 
 DiplodocusDB is a series of projects that provide data storage components. It is currently
 only really useful to me for my own projects.
 
-This repository contains project data.
+This repository contains the project top-level build files and documentation. 
+
+## Contents
+
+### DiplodocudDB original projects
+
+- [Core](https://github.com/diplodocusdb/core): Core classes.
+
+  [![diplodocusdb](https://circleci.com/gh/diplodocusdb/core.svg?style=shield)](https://circleci.com/gh/diplodocusdb/core)
+
+- [TreeDB](https://github.com/diplodocusdb/tree-db): Database functionality to store tree data.
+
+  [![diplodocusdb](https://circleci.com/gh/diplodocusdb/tree-db.svg?style=shield)](https://circleci.com/gh/diplodocusdb/tree-db)
 
 ## License
 
-Copyright (c) 2015-2018 Xavier Leclercq
+Copyright (c) 2015-2021 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
