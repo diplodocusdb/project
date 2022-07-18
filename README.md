@@ -5,6 +5,7 @@ only really useful to me for my own projects.
 
 This repository contains the project top-level build files and documentation. 
 
+
 ## Contents
 
 ### DiplodocudDB original projects
@@ -13,13 +14,18 @@ This repository contains the project top-level build files and documentation.
 
   [![diplodocusdb](https://circleci.com/gh/diplodocusdb/core.svg?style=shield)](https://circleci.com/gh/diplodocusdb/core)
 
-- [TreeDB](https://github.com/diplodocusdb/tree-db): Database functionality to store tree data.
+- [EmbeddedDocumentDB](https://github.com/diplodocusdb/embedded-document-db): Database functionality to store document data.
 
-  [![diplodocusdb](https://circleci.com/gh/diplodocusdb/tree-db.svg?style=shield)](https://circleci.com/gh/diplodocusdb/tree-db)
+  [![diplodocusdb](https://circleci.com/gh/diplodocusdb/embedded-document-db.svg?style=shield)](https://circleci.com/gh/diplodocusdb/embedded-document-db)
+
+- [PhysicalStorage](https://github.com/diplodocusdb/physical-storage): Low level storage components.
+
+  [![diplodocusdb](https://circleci.com/gh/diplodocusdb/physical-storage.svg?style=shield)](https://circleci.com/gh/diplodocusdb/physical-storage)
+
 
 ## License
 
-Copyright (c) 2015-2021 Xavier Leclercq
+Copyright (c) 2015-2022 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
